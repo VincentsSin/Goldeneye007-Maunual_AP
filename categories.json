@@ -1,0 +1,77 @@
+{
+    "Agent Mission": {
+        "yaml_option": [
+            "AgentMissions"
+        ]
+    },
+    "Secret Agent Mission": {
+        "yaml_option": [
+            "SecretAgentMissions"
+        ]
+    },
+    "Double0 Agent Mission": {
+        "yaml_option": [
+            "Double0AgentMissions"
+        ]
+    },
+    "Agent Key": {
+        "yaml_option": [
+            "AgentKeys"
+        ]
+    },
+    "Secret Agent Key": {
+        "yaml_option": [
+            "SecretAgentKeys"
+        ]
+    },
+    "Double0 Agent Key": {
+        "yaml_option": [
+            "Double0AgentKeys"
+        ]
+    },
+    "Agent Intel": {
+        "yaml_option": [
+            "AgentIntel"
+        ]
+    },
+    "Secret Agent Intel": {
+        "yaml_option": [
+            "SecretAgentIntel"
+        ]
+    },
+    "Double0 Agent Intel": {
+        "yaml_option": [
+            "Double0AgentIntel"
+        ]
+    },
+    "Agent Cheat Unlock": {
+        "yaml_option": [
+            "AgentCheats"
+        ]
+    },
+    "Secret Agent Cheat Unlock": {
+        "yaml_option": [
+            "SecretAgentCheats"
+        ]
+    },
+    "Double0 Agent Cheat Unlock": {
+        "yaml_option": [
+            "Double0AgentCheats"
+        ]
+    },
+    "Agent Objective": {
+        "yaml_option": [
+            "AgentObjectives"
+        ]
+    },
+    "Secret Agent Objective": {
+        "yaml_option": [
+            "SecrtAgentObjectives"
+        ]
+    },
+    "Double0 Agent Objective": {
+        "yaml_option": [
+            "Double0AgentObjectives"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "game": "Goldeneye007",
+    "player": "VincentsSin",
+    "filler_item_name": "Missing Dossier",
+    "starting_items": [
+        {
+            "items": [
+                "Silenced PP7"
+            ]
+        },
+        {
+            "items": [
+                "Dam Agent"
+            ]
+        },
+        {
+            "items": [
+                "Dam Secret Agent"
+            ]
+        },
+        {
+            "items": [
+                "Dam Double0 Agent"
+            ]
+        }
+    ]
+}

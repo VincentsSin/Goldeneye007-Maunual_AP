@@ -1,0 +1,884 @@
+[
+    {
+        "name": "PP7 Special Issue",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Silenced PP7",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "DD44 Dostovei",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Throwing Knife",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Klobb",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "KF7 Soviet",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "ZMG 9mm",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "D5K Deutsche",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Silenced D5K",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "AR33 Assault Rifle",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "RC-P90",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Automatic Shotgun",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Sniper Rifle",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Grendade Launcher",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Rocket Launcher",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Hand Grenades",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Timed Mines",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Proximity Mines",
+        "category": [
+            "Weapon"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Remote Mines",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Tank",
+        "category": [
+            "Weapon"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Covert Modem",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Door Decoder",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Key Analyzer Case",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Datathief",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Camera",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Plastique",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Tracker Bug",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bomb Defuser",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Special Timed Mine",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Watch Magnet",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Watch Laser",
+        "category": [
+            "Gadget"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Facility Keycard A",
+        "category": [
+            "Item"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Facility Keycard B",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Airplane Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Comms Room Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface Safe Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Building Plans",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Computer Room Keycard",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Security Room Keycard",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Goldeneye Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "I/O Circuit Board",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "CPU Circuit Board",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "RSP Circuit Board",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "RDP Circuit Board",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Keycard 4-H4",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Keycard 4-C3",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Keycard 4-52",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "DAT",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker Cell Key 1",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker Cell Key 2",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "CCTV Tape",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Staff List",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Casualty List",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Goldeneye Operations Manual",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 2 Keycard A",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 2 Keycard B",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker Safe Key 1",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker Safe Key 2",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Statue Flight Recorder",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Interrogation Room Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Archives Safe Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Archives Flight Recorder",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Depot Safe Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Blueprints",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Train Door Key",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cavern Code Card 1",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cavern Code Card 2",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cavern Code Card 3",
+        "category": [
+            "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Body Armor",
+        "category": [
+            "Item"
+        ],
+        "useful": true
+    },
+    {
+        "name": "Dam Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Facility Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Runway Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface 1 Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 1 Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Silo Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Frigate Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface 2 Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 2 Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Statue Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Archives Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Streets Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Depot Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Train Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jungle Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Control Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Caverns Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cradle Agent",
+        "category": [
+            "Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Dam Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Facility Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Runway Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface 1 Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 1 Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Silo Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Frigate Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface 2 Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 2 Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Statue Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Archives Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Streets Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Depot Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Train Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jungle Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Control Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Caverns Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cradle Secret Agent",
+        "category": [
+            "Secret Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Dam Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Facility Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Runway Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface 1 Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 1 Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Silo Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Frigate Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Surface 2 Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Bunker 2 Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Statue Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Archives Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Streets Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Depot Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Train Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Jungle Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Control Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Caverns Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Cradle Double0 Agent",
+        "category": [
+            "Double0 Agent Mission"
+        ],
+        "progression": true
+    },
+	{
+		"name": "Trevelyn Defeated (Agent)",
+		"category": [
+			"Agent Mission"
+		],
+		"progression": true
+	},
+	{
+		"name": "Trevelyn Defeated (Secret Agent)",
+		"category": [
+			"Secret Agent Mission"
+		],
+		"progression": true
+	},
+	{
+		"name": "Trevelyn Defeated (Double0 Agent)",
+		"category": [
+			"Double0 Agent Mission"
+		],
+		"progression": true
+	}
+]

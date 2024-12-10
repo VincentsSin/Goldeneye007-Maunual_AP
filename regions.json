@@ -1,0 +1,88 @@
+{
+    "Mission 1-1 Dam": {
+        "connects_to": [
+            "Mission 1-2 Facility"
+        ]
+    },
+    "Mission 1-2 Facility": {
+        "connects_to": [
+            "Mission 1-3 Runway"
+        ]
+    },
+    "Mission 1-3 Runway": {
+        "connects_to": [
+            "Mission 2-1 Surface 1"
+        ]
+    },
+    "Mission 2-1 Surface 1": {
+        "connects_to": [
+            "Mission 2-2 Bunker 1"
+        ]
+    },
+    "Mission 2-2 Bunker 1": {
+        "connects_to": [
+            "Mission 3-1 Silo"
+        ]
+    },
+    "Mission 3-1 Silo": {
+        "connects_to": [
+            "Mission 4-1 Frigate"
+        ]
+    },
+    "Mission 4-1 Frigate": {
+        "connects_to": [
+            "Mission 5-1 Surface 2"
+        ]
+    },
+    "Mission 5-1 Surface 2": {
+        "connects_to": [
+            "Mission 5-2 Bunker 2"
+        ]
+    },
+    "Mission 5-2 Bunker 2": {
+        "connects_to": [
+            "Mission 6-1 Statue"
+        ]
+    },
+    "Mission 6-1 Statue": {
+        "connects_to": [
+            "Mission 6-2 Archives"
+        ]
+    },
+    "Mission 6-2 Archives": {
+        "connects_to": [
+            "Mission 6-3 Streets"
+        ]
+    },
+    "Mission 6-3 Streets": {
+        "connects_to": [
+            "Mission 6-4 Depot"
+        ]
+    },
+    "Mission 6-4 Depot": {
+        "connects_to": [
+            "Mission 6-5 Train"
+        ]
+    },
+    "Mission 6-5 Train": {
+        "connects_to": [
+            "Mission 7-1 Jungle"
+        ]
+    },
+    "Mission 7-1 Jungle": {
+        "connects_to": [
+            "Mission 7-2 Control"
+        ]
+    },
+    "Mission 7-2 Control": {
+        "connects_to": [
+            "Mission 7-3 Caverns"
+        ]
+    },
+    "Mission 7-3 Caverns": {
+        "connects_to": [
+            "Mission 7-4 Cradle"
+        ]
+    },
+    "Mission 7-4 Cradle": {}
+}
