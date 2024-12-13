@@ -66,12 +66,22 @@
     },
     "Secret Agent Objective": {
         "yaml_option": [
-            "SecrtAgentObjectives"
+            "SecretAgentObjectives"
         ]
     },
     "Double0 Agent Objective": {
         "yaml_option": [
             "Double0AgentObjectives"
         ]
-    }
+    },
+	"Linear": {
+		"yaml_option": [
+			"Linear"
+		]
+	},
+	"Open": {
+		"yaml_option": [
+			"Open"
+		]
+	}
 }
