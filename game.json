@@ -1,7 +1,7 @@
 {
     "game": "Goldeneye007",
     "player": "VincentsSin",
-    "filler_item_name": "Missing Dossier",
+    "filler_item_name": "Empty Dossier",
     "starting_items": [
         {
             "items": [
@@ -34,28 +34,7 @@
         },
 		{
 			"item_categories": [
-				"Agent Mission"
-			],
-			"yaml_option": [
-				"Open"
-			],
-			"random": 1
-		},
-		{
-			"item_categories": [
-				"Secret Agent Mission"
-			],
-			"yaml_option": [
-				"Open"
-			],
-			"random": 1
-		},
-		{
-			"item_categories": [
-				"Double0 Agent Mission"
-			],
-			"yaml_option": [
-				"Open"
+				"Open Random"
 			],
 			"random": 1
 		}
