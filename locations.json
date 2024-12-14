@@ -5,9 +5,7 @@
             "Agent Mission"
         ],
         "region": "Mission 1-1 Dam",
-        "place_item": [
-            "Facility Agent"
-        ]
+		"require": "{YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Agent|"
     },
     {
         "name": "Dam - Secret Agent (Clear)",
@@ -15,9 +13,7 @@
             "Secret Agent Mission"
         ],
         "region": "Mission 1-1 Dam",
-        "place_item": [
-            "Facility Secret Agent"
-        ]
+		"require": "{YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Secret Agent|"
     },
     {
         "name": "Dam - Double0 Agent (Clear)",
@@ -25,38 +21,39 @@
             "Double0 Agent Mission"
         ],
         "region": "Mission 1-1 Dam",
-        "place_item": [
-            "Facility Double0 Agent"
-        ],
-        "requires": "|Covert Modem|"
+		"requires": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Double0 Agent| AND |Covert Modem|) OR ({YamlEnabled(Linear)} AND {YamlDisabled(Open)} AND |Covert Modem|)"
     },
     {
         "name": "Bungee Jump From Platform (Agent)",
         "category": [
             "Agent Objective"
         ],
-        "region": "Mission 1-1 Dam"
+        "region": "Mission 1-1 Dam",
+		"require": "{YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Agent|"
     },
     {
         "name": "Neutralize All Alarms (Secret Agent)",
         "category": [
             "Secret Agent Objective"
         ],
-        "region": "Mission 1-1 Dam"
+        "region": "Mission 1-1 Dam",
+		"require": "{YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Secret Agent|"
     },
     {
         "name": "Bungee Jump From Platform (Secret Agent)",
         "category": [
             "Secret Agent Objective"
         ],
-        "region": "Mission 1-1 Dam"
+        "region": "Mission 1-1 Dam",
+		"require": "{YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Secret Agent|"
     },
     {
         "name": "Neutralize All Alarms (Double0 Agent)",
         "category": [
             "Double0 Agent Objective"
         ],
-        "region": "Mission 1-1 Dam"
+        "region": "Mission 1-1 Dam",
+		"requires": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Double0 Agent|) OR ({YamlEnabled(Linear)} AND {YamlDisabled(Open)})"
     },
     {
         "name": "Install Covert Modem (Double0 Agent)",
@@ -64,28 +61,30 @@
             "Double0 Agent Objective"
         ],
         "region": "Mission 1-1 Dam",
-        "requires": "|Covert Modem|"
+        "requires": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Double0 Agent| AND |Covert Modem|) OR ({YamlEnabled(Linear)} AND {YamlDisabled(Open)} AND |Covert Modem|)"
     },
     {
         "name": "Intercept Data Backup (Double0 Agent)",
         "category": [
             "Double0 Agent Objective"
         ],
-        "region": "Mission 1-1 Dam"
+        "region": "Mission 1-1 Dam",
+		"requires": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Double0 Agent|) OR ({YamlEnabled(Linear)} AND {YamlDisabled(Open)})"
     },
     {
         "name": "Bungee Jump From Platform (Double0 Agent)",
         "category": [
             "Double0 Agent Objective"
         ],
-        "region": "Mission 1-2 Facility"
+        "region": "Mission 1-1 Dam",
+		"requires": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)} AND |Dam Double0 Agent|) OR ({YamlEnabled(Linear)} AND {YamlDisabled(Open)})"
     },
     {
         "name": "Paintball Mode",
         "category": [
             "Secret Agent Cheat Unlock"
         ],
-        "region": "Mission 1-2 Facility"
+        "region": "Mission 1-1 Dam"
     },
     {
         "name": "Facility - Agent (Clear)",
