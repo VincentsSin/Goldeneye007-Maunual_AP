@@ -485,378 +485,378 @@
     {
         "name": "Dam Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Facility Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Runway Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Surface 1 Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Bunker 1 Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Silo Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Frigate Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Surface 2 Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Bunker 2 Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Statue Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Archives Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Streets Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Depot Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Train Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Jungle Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Control Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Caverns Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Cradle Agent",
         "category": [
-            "Agent Mission"
+            "Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Dam Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Facility Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Runway Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Surface 1 Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Bunker 1 Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Silo Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Frigate Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Surface 2 Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Bunker 2 Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Statue Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Archives Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Streets Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Depot Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Train Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Jungle Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Control Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Caverns Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Cradle Secret Agent",
         "category": [
-            "Secret Agent Mission"
+            "Secret Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Dam Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Facility Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Runway Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Surface 1 Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Bunker 1 Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Silo Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Frigate Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Surface 2 Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Bunker 2 Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Statue Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Archives Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Streets Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Depot Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Train Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Jungle Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Control Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Caverns Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
         "name": "Cradle Double0 Agent",
         "category": [
-            "Double0 Agent Mission"
+            "Double0 Agent Mission", "Open Random"
         ],
         "progression": true
     },
