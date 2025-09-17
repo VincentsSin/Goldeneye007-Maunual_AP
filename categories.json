@@ -1,77 +1,83 @@
 {
     "Agent Mission": {
+		"hidden": true,
         "yaml_option": [
-            "AgentMissions"
+            "Agent_Missions"
         ]
     },
     "Secret Agent Mission": {
+		"hidden": true,
         "yaml_option": [
-            "SecretAgentMissions"
+            "Secret_Agent_Missions"
         ]
     },
-    "Double0 Agent Mission": {
+    "Double Agent Mission": {
+		"hidden": true,
         "yaml_option": [
-            "Double0AgentMissions"
+            "Double_Agent_Missions"
         ]
     },
     "Agent Key": {
         "yaml_option": [
-            "AgentKeys"
+            "Agent_Keys"
         ]
     },
     "Secret Agent Key": {
         "yaml_option": [
-            "SecretAgentKeys"
+            "Secret_Agent_Keys"
         ]
     },
-    "Double0 Agent Key": {
+    "Double Agent Key": {
         "yaml_option": [
-            "Double0AgentKeys"
+            "Double_Agent_Keys"
         ]
     },
     "Agent Intel": {
         "yaml_option": [
-            "AgentIntel"
+            "Agent_Intel"
         ]
     },
     "Secret Agent Intel": {
         "yaml_option": [
-            "SecretAgentIntel"
+            "Secret_Agent_Intel"
         ]
     },
-    "Double0 Agent Intel": {
+    "Double Agent Intel": {
         "yaml_option": [
-            "Double0AgentIntel"
+            "Double_Agent_Intel"
         ]
     },
     "Agent Cheat Unlock": {
         "yaml_option": [
-            "AgentCheats"
+            "Agent_Cheats"
         ]
     },
     "Secret Agent Cheat Unlock": {
         "yaml_option": [
-            "SecretAgentCheats"
+            "Secret_Agent_Cheats"
         ]
     },
-    "Double0 Agent Cheat Unlock": {
+    "Double Agent Cheat Unlock": {
         "yaml_option": [
-            "Double0AgentCheats"
+            "Double_Agent_Cheats"
         ]
     },
     "Agent Objective": {
+		"hidden": true,
         "yaml_option": [
-            "AgentObjectives"
+            "Agent_Objectives"
         ]
     },
     "Secret Agent Objective": {
+		"hidden": true,
         "yaml_option": [
-            "SecretAgentObjectives"
+            "Secret_Agent_Objectives"
         ]
     },
-    "Double0 Agent Objective": {
+    "Double Agent Objective": {
+		"hidden": true,
         "yaml_option": [
-            "Double0AgentObjectives"
+            "Double_Agent_Objectives"
         ]
     },
 	"Linear": {
