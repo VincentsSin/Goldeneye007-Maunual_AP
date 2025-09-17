@@ -67,7 +67,7 @@
         "category": [
             "Weapon"
         ],
-        "progression": true
+        "useful": true
     },
     {
         "name": "RC-P90",
@@ -91,7 +91,7 @@
         "useful": true
     },
     {
-        "name": "Grendade Launcher",
+        "name": "Grenade Launcher",
         "category": [
             "Weapon"
         ],
@@ -137,7 +137,7 @@
         "category": [
             "Weapon"
         ],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Covert Modem",
@@ -214,7 +214,7 @@
         "category": [
             "Gadget"
         ],
-        "progression": true
+        "useful": true
     },
     {
         "name": "Facility Keycard A",
@@ -406,7 +406,7 @@
         "progression": true
     },
     {
-        "name": "Statue Flight Recorder",
+        "name": "Flight Recorder",
         "category": [
             "Item"
         ],
@@ -421,13 +421,6 @@
     },
     {
         "name": "Archives Safe Key",
-        "category": [
-            "Item"
-        ],
-        "progression": true
-    },
-    {
-        "name": "Archives Flight Recorder",
         "category": [
             "Item"
         ],
@@ -455,21 +448,21 @@
         "progression": true
     },
     {
-        "name": "Cavern Code Card 1",
+        "name": "Code Card 1",
         "category": [
             "Item"
         ],
         "progression": true
     },
     {
-        "name": "Cavern Code Card 2",
+        "name": "Code Card 2",
         "category": [
             "Item"
         ],
         "progression": true
     },
     {
-        "name": "Cavern Code Card 3",
+        "name": "Code Card 3",
         "category": [
             "Item"
         ],
@@ -735,150 +728,286 @@
         "progression": true
     },
     {
-        "name": "Dam Double0 Agent",
+        "name": "Dam Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Facility Double0 Agent",
+        "name": "Facility Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Runway Double0 Agent",
+        "name": "Runway Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Surface 1 Double0 Agent",
+        "name": "Surface 1 Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Bunker 1 Double0 Agent",
+        "name": "Bunker 1 Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Silo Double0 Agent",
+        "name": "Silo Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Frigate Double0 Agent",
+        "name": "Frigate Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Surface 2 Double0 Agent",
+        "name": "Surface 2 Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Bunker 2 Double0 Agent",
+        "name": "Bunker 2 Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Statue Double0 Agent",
+        "name": "Statue Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Archives Double0 Agent",
+        "name": "Archives Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Streets Double0 Agent",
+        "name": "Streets Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Depot Double0 Agent",
+        "name": "Depot Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Train Double0 Agent",
+        "name": "Train Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Jungle Double0 Agent",
+        "name": "Jungle Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Control Double0 Agent",
+        "name": "Control Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Caverns Double0 Agent",
+        "name": "Caverns Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
     {
-        "name": "Cradle Double0 Agent",
+        "name": "Cradle Double Agent",
         "category": [
-            "Double0 Agent Mission", "Open Random"
+            "Double Agent Mission", "Open Random"
         ],
         "progression": true
     },
 	{
-		"name": "Trevelyn Defeated (Agent)",
-		"category": [
+        "name": "Paintball Mode",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Invincibility",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "DK Mode",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "2X Grenade Launcher",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "2X Rocket Launcher",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Turbo Mode",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Tiny Bond",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "2X Throwning Knives",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Fast Animation",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Invisibility",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Enemy Rockets",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Slow Animation",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Silver PP7",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "2X Hunting Knives",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Infinite Ammo",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "2x RC-P90s",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "Gold PP7",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "2X Lasers",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+    {
+        "name": "All Guns",
+        "category": [
+            "Cheat Code Unlock"
+        ],
+        "normal": true
+    },
+	{
+        "name": "Agent Cleared",
+        "category": [
+            "Item",
 			"Agent Mission"
-		],
-		"progression": true
-	},
+        ],
+        "progression": true
+    },
 	{
-		"name": "Trevelyn Defeated (Secret Agent)",
-		"category": [
+        "name": "Secret Agent Cleared",
+        "category": [
+            "Item",
 			"Secret Agent Mission"
-		],
-		"progression": true
-	},
+        ],
+        "progression": true
+    },
 	{
-		"name": "Trevelyn Defeated (Double0 Agent)",
-		"category": [
-			"Double0 Agent Mission"
-		],
-		"progression": true
-	}
+        "name": "Double Agent Cleared",
+        "category": [
+            "Item",
+			"Double Agent Mission"
+        ],
+        "progression": true
+    }
 ]
