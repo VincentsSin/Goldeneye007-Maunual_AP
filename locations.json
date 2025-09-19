@@ -469,21 +469,24 @@
         "category": [
             "Agent Key"
         ],
-        "region": "Agent Mission 2-1 Surface 1"
+        "region": "Agent Mission 2-1 Surface 1",
+		"requires": "|Comms Room Key|"
     },
     {
         "name": "Surface 1 - Safe Key (Secret Agent)",
         "category": [
             "Secret Agent Key"
         ],
-        "region": "Secret Agent Mission 2-1 Surface 1"
+        "region": "Secret Agent Mission 2-1 Surface 1",
+		"requires": "|Comms Room Key|"
     },
     {
         "name": "Surface 1 - Safe Key (Double Agent)",
         "category": [
             "Double Agent Key"
         ],
-        "region": "Double Agent Mission 2-1 Surface 1"
+        "region": "Double Agent Mission 2-1 Surface 1",
+		"requires": "|Comms Room Key|"
     },
     {
         "name": "Surface 1 - Building Plans (Agent)",
@@ -491,7 +494,7 @@
             "Agent Intel"
         ],
         "region": "Agent Mission 2-1 Surface 1",
-        "requires": "|Surface Safe Key|"
+        "requires": "|Comms Room Key| AND |Surface Safe Key|"
     },
     {
         "name": "Surface 1 - Building Plans (Secret Agent)",
@@ -499,7 +502,7 @@
             "Secret Agent Intel"
         ],
         "region": "Secret Agent Mission 2-1 Surface 1",
-        "requires": "|Surface Safe Key|"
+        "requires": "|Comms Room Key| AND |Surface Safe Key|"
     },
     {
         "name": "Surface 1 - Building Plans (Double Agent)",
@@ -507,7 +510,7 @@
             "Double Agent Intel"
         ],
         "region": "Double Agent Mission 2-1 Surface 1",
-        "requires": "|Surface Safe Key|"
+        "requires": "|Comms Room Key| AND |Surface Safe Key|"
     },
     {
         "name": "Power Down Communications Dish (Agent)",
