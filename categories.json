@@ -19,75 +19,80 @@
     },
     "Agent Key": {
         "yaml_option": [
-            "Agent_Keys"
+            "Agent_Missions"
         ]
     },
     "Secret Agent Key": {
         "yaml_option": [
-            "Secret_Agent_Keys"
+            "Secret_Agent_Missions"
         ]
     },
     "Double Agent Key": {
         "yaml_option": [
-            "Double_Agent_Keys"
+            "Double_Agent_Missions"
         ]
     },
     "Agent Intel": {
         "yaml_option": [
-            "Agent_Intel"
+            "Agent_Missions"
         ]
     },
     "Secret Agent Intel": {
         "yaml_option": [
-            "Secret_Agent_Intel"
+            "Secret_Agent_Missions"
         ]
     },
     "Double Agent Intel": {
         "yaml_option": [
-            "Double_Agent_Intel"
+            "Double_Agent_Missions"
         ]
     },
     "Agent Cheat Unlock": {
         "yaml_option": [
-            "Agent_Cheats"
+            "Add_Cheats",
+			"Agent_Missions"
         ]
     },
     "Secret Agent Cheat Unlock": {
         "yaml_option": [
-            "Secret_Agent_Cheats"
+            "Add_Cheats",
+			"Secret_Agent_Missions"
         ]
     },
     "Double Agent Cheat Unlock": {
         "yaml_option": [
-            "Double_Agent_Cheats"
+            "Add_Cheats",
+			"Double_Agent_Missions"
         ]
     },
     "Agent Objective": {
 		"hidden": true,
         "yaml_option": [
-            "Agent_Objectives"
+            "Agent_Missions"
         ]
     },
     "Secret Agent Objective": {
 		"hidden": true,
         "yaml_option": [
-            "Secret_Agent_Objectives"
+            "Secret_Agent_Missions"
         ]
     },
     "Double Agent Objective": {
 		"hidden": true,
         "yaml_option": [
-            "Double_Agent_Objectives"
+            "Double_Agent_Missions"
         ]
     },
-	"Linear": {
+	"Linear World": {
 		"yaml_option": [
-			"Linear"
-		]
+			"Linear_Gameplay"
+		],
+		"hidden": true
 	},
-	"Open": {
+	"Open World": {
 		"yaml_option": [
-			"Open"
-		]
+			"!Linear_Gameplay"
+		],
+		"hidden": true
 	}
 }

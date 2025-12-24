@@ -59,61 +59,61 @@
 			"Finale"
         ],
 		"exit_requires": {
-			"Agent Mission 1-1 Dam": "(({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Dam Agent|)) OR (({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND ({YamlEnabled(Agent_Missions)} AND |Dam Agent|))",
-			"Agent Mission 1-2 Facility": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Facility Agent|)",
-			"Agent Mission 1-3 Runway": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Runway Agent|)",
-			"Agent Mission 2-1 Surface 1": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Surface 1 Agent|)",
-			"Agent Mission 2-2 Bunker 1": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Bunker 1 Agent|)",
-			"Agent Mission 3-1 Silo": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Silo Agent|)",
-			"Agent Mission 4-1 Frigate": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Frigate Agent|)",
-			"Agent Mission 5-1 Surface 2": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Surface 2 Agent|)",
-			"Agent Mission 5-2 Bunker 2": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Bunker 2 Agent|)",
-			"Agent Mission 6-1 Statue": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Statue Agent|)",
-			"Agent Mission 6-2 Archives": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Archives Agent|)",
-			"Agent Mission 6-3 Streets": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Streets Agent|)",
-			"Agent Mission 6-4 Depot": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Depot Agent|)",
-			"Agent Mission 6-5 Train": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Train Agent|)",
-			"Agent Mission 7-1 Jungle": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Jungle Agent|)",
-			"Agent Mission 7-2 Control": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Control Agent|)",
-			"Agent Mission 7-3 Caverns": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Caverns Agent|)",
-			"Agent Mission 7-4 Cradle": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND |Cradle Agent|)",
-			"Secret Agent Mission 1-1 Dam": "(({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Dam Secret Agent|) OR (({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Dam Secret Agent|))",
-			"Secret Agent Mission 1-2 Facility": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Facility Secret Agent|)",
-			"Secret Agent Mission 1-3 Runway": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Runway Secret Agent|)",
-			"Secret Agent Mission 2-1 Surface 1": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Surface 1 Secret Agent|)",
-			"Secret Agent Mission 2-2 Bunker 1": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Bunker 1 Secret Agent|)",
-			"Secret Agent Mission 3-1 Silo": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Silo Secret Agent|)",
-			"Secret Agent Mission 4-1 Frigate": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Frigate Secret Agent|)",
-			"Secret Agent Mission 5-1 Surface 2": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Surface 2 Secret Agent|)",
-			"Secret Agent Mission 5-2 Bunker 2": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Bunker 2 Secret Agent|)",
-			"Secret Agent Mission 6-1 Statue": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Statue Secret Agent|)",
-			"Secret Agent Mission 6-2 Archives": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Archives Secret Agent|)",
-			"Secret Agent Mission 6-3 Streets": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Streets Secret Agent|)",
-			"Secret Agent Mission 6-4 Depot": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Depot Secret Agent|)",
-			"Secret Agent Mission 6-5 Train": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Train Secret Agent|)",
-			"Secret Agent Mission 7-1 Jungle": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Jungle Secret Agent|)",
-			"Secret Agent Mission 7-2 Control": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Control Secret Agent|)",
-			"Secret Agent Mission 7-3 Caverns": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Caverns Secret Agent|)",
-			"Secret Agent Mission 7-4 Cradle": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Secret_Agent_Missions)} AND |Cradle Secret Agent|)",
-			"Double Agent Mission 1-1 Dam": "(({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Dam Double Agent|) OR (({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Dam Double Agent|)",
-			"Double Agent Mission 1-2 Facility": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Facility Double Agent|",
-			"Double Agent Mission 1-3 Runway": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Runway Double Agent|",
-			"Double Agent Mission 2-1 Surface 1": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Surface 1 Double Agent|",
-			"Double Agent Mission 2-2 Bunker 1": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Bunker 1 Double Agent|",
-			"Double Agent Mission 3-1 Silo": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Silo Double Agent|",
-			"Double Agent Mission 4-1 Frigate": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Frigate Double Agent|",
-			"Double Agent Mission 5-1 Surface 2": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Surface 2 Double Agent|",
-			"Double Agent Mission 5-2 Bunker 2": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Bunker 2 Double Agent|",
-			"Double Agent Mission 6-1 Statue": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Statue Double Agent|",
-			"Double Agent Mission 6-2 Archives": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Archives Double Agent|",
-			"Double Agent Mission 6-3 Streets": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Streets Double Agent|",
-			"Double Agent Mission 6-4 Depot": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Depot Double Agent|",
-			"Double Agent Mission 6-5 Train": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Train Double Agent|",
-			"Double Agent Mission 7-1 Jungle": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Jungle Double Agent|",
-			"Double Agent Mission 7-2 Control": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Control Double Agent|",
-			"Double Agent Mission 7-3 Caverns": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Caverns Double Agent|",
-			"Double Agent Mission 7-4 Cradle": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND |Cradle Double Agent|",
-			"Finale": "({YamlEnabled(Open)} AND {YamlDisabled(Linear)}) AND ({YamlEnabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Secret Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Double Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Secret Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Double Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Secret Agent Cleared| AND |Double Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Secret Agent Cleared| AND |Double Agent Cleared|)"
+			"Agent Mission 1-1 Dam": "({YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Dam Agent|)) OR ({YamlEnabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Dam Agent|))",
+			"Agent Mission 1-2 Facility": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Facility Agent|)",
+			"Agent Mission 1-3 Runway": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Runway Agent|)",
+			"Agent Mission 2-1 Surface 1": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Surface 1 Agent|)",
+			"Agent Mission 2-2 Bunker 1": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Bunker 1 Agent|)",
+			"Agent Mission 3-1 Silo": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Silo Agent|)",
+			"Agent Mission 4-1 Frigate": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Frigate Agent|)",
+			"Agent Mission 5-1 Surface 2": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Surface 2 Agent|)",
+			"Agent Mission 5-2 Bunker 2": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Bunker 2 Agent|)",
+			"Agent Mission 6-1 Statue": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Statue Agent|)",
+			"Agent Mission 6-2 Archives": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Archives Agent|)",
+			"Agent Mission 6-3 Streets": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Streets Agent|)",
+			"Agent Mission 6-4 Depot": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Depot Agent|)",
+			"Agent Mission 6-5 Train": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Train Agent|)",
+			"Agent Mission 7-1 Jungle": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Jungle Agent|)",
+			"Agent Mission 7-2 Control": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Control Agent|)",
+			"Agent Mission 7-3 Caverns": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Caverns Agent|)",
+			"Agent Mission 7-4 Cradle": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Cradle Agent|)",
+			"Secret Agent Mission 1-1 Dam": "({YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Dam Secret Agent|) OR ({YamlEnabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Dam Secret Agent|))",
+			"Secret Agent Mission 1-2 Facility": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Facility Secret Agent|)",
+			"Secret Agent Mission 1-3 Runway": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Runway Secret Agent|)",
+			"Secret Agent Mission 2-1 Surface 1": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Surface 1 Secret Agent|)",
+			"Secret Agent Mission 2-2 Bunker 1": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Bunker 1 Secret Agent|)",
+			"Secret Agent Mission 3-1 Silo": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Silo Secret Agent|)",
+			"Secret Agent Mission 4-1 Frigate": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Frigate Secret Agent|)",
+			"Secret Agent Mission 5-1 Surface 2": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Surface 2 Secret Agent|)",
+			"Secret Agent Mission 5-2 Bunker 2": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Bunker 2 Secret Agent|)",
+			"Secret Agent Mission 6-1 Statue": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Statue Secret Agent|)",
+			"Secret Agent Mission 6-2 Archives": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Archives Secret Agent|)",
+			"Secret Agent Mission 6-3 Streets": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Streets Secret Agent|)",
+			"Secret Agent Mission 6-4 Depot": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Depot Secret Agent|)",
+			"Secret Agent Mission 6-5 Train": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Train Secret Agent|)",
+			"Secret Agent Mission 7-1 Jungle": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Jungle Secret Agent|)",
+			"Secret Agent Mission 7-2 Control": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Control Secret Agent|)",
+			"Secret Agent Mission 7-3 Caverns": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Caverns Secret Agent|)",
+			"Secret Agent Mission 7-4 Cradle": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Cradle Secret Agent|)",
+			"Double Agent Mission 1-1 Dam": "({YamlDisabled(Linear_Gameplay)} AND |Dam Double Agent|) OR ({YamlEnabled(Linear_Gameplay)} AND |Dam Double Agent|)",
+			"Double Agent Mission 1-2 Facility": "{YamlDisabled(Linear_Gameplay)} AND |Facility Double Agent|",
+			"Double Agent Mission 1-3 Runway": "{YamlDisabled(Linear_Gameplay)} AND |Runway Double Agent|",
+			"Double Agent Mission 2-1 Surface 1": "{YamlDisabled(Linear_Gameplay)} AND |Surface 1 Double Agent|",
+			"Double Agent Mission 2-2 Bunker 1": "{YamlDisabled(Linear_Gameplay)} AND |Bunker 1 Double Agent|",
+			"Double Agent Mission 3-1 Silo": "{YamlDisabled(Linear_Gameplay)} AND |Silo Double Agent|",
+			"Double Agent Mission 4-1 Frigate": "{YamlDisabled(Linear_Gameplay)} AND |Frigate Double Agent|",
+			"Double Agent Mission 5-1 Surface 2": "{YamlDisabled(Linear_Gameplay)} AND |Surface 2 Double Agent|",
+			"Double Agent Mission 5-2 Bunker 2": "{YamlDisabled(Linear_Gameplay)} AND |Bunker 2 Double Agent|",
+			"Double Agent Mission 6-1 Statue": "{YamlDisabled(Linear_Gameplay)} AND |Statue Double Agent|",
+			"Double Agent Mission 6-2 Archives": "{YamlDisabled(Linear_Gameplay)} AND |Archives Double Agent|",
+			"Double Agent Mission 6-3 Streets": "{YamlDisabled(Linear_Gameplay)} AND |Streets Double Agent|",
+			"Double Agent Mission 6-4 Depot": "{YamlDisabled(Linear_Gameplay)} AND |Depot Double Agent|",
+			"Double Agent Mission 6-5 Train": "{YamlDisabled(Linear_Gameplay)} AND |Train Double Agent|",
+			"Double Agent Mission 7-1 Jungle": "{YamlDisabled(Linear_Gameplay)} AND |Jungle Double Agent|",
+			"Double Agent Mission 7-2 Control": "{YamlDisabled(Linear_Gameplay)} AND |Control Double Agent|",
+			"Double Agent Mission 7-3 Caverns": "{YamlDisabled(Linear_Gameplay)} AND |Caverns Double Agent|",
+			"Double Agent Mission 7-4 Cradle": "{YamlDisabled(Linear_Gameplay)} AND |Cradle Double Agent|",
+			"Finale": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Secret Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Double Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Secret Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Double Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Secret Agent Cleared| AND |Double Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Secret Agent Cleared| AND |Double Agent Cleared|)"
 		}
     },
 	"Agent Mission 1-1 Dam": {
@@ -121,7 +121,7 @@
             "Agent Mission 1-2 Facility"
         ],
 		"exit_requires": {
-			"Agent Mission 1-2 Facility": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Facility Agent|"
+			"Agent Mission 1-2 Facility": "{YamlEnabled(Linear_Gameplay)} AND |Facility Agent|"
 		}
     },
     "Agent Mission 1-2 Facility": {
@@ -129,7 +129,7 @@
             "Agent Mission 1-3 Runway"
         ],
 		"exit_requires": {
-			"Agent Mission 1-3 Runway": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Runway Agent| AND |Facility Keycard B| AND |Remote Mines|"
+			"Agent Mission 1-3 Runway": "{YamlEnabled(Linear_Gameplay)} AND |Runway Agent| AND |Facility Keycard B| AND |Remote Mines|"
 		}
     },
     "Agent Mission 1-3 Runway": {
@@ -137,7 +137,7 @@
             "Agent Mission 2-1 Surface 1"
         ],
 		"exit_requires": {
-			"Agent Mission 2-1 Surface 1": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Surface 1 Agent| AND |Airplane Key|"
+			"Agent Mission 2-1 Surface 1": "{YamlEnabled(Linear_Gameplay)} AND |Surface 1 Agent| AND |Airplane Key|"
 		}
     },
     "Agent Mission 2-1 Surface 1": {
@@ -145,7 +145,7 @@
             "Agent Mission 2-2 Bunker 1"
         ],
 		"exit_requires": {
-			"Agent Mission 2-2 Bunker 1": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Bunker 1 Agent| AND |Comms Room Key|"
+			"Agent Mission 2-2 Bunker 1": "{YamlEnabled(Linear_Gameplay)} AND |Bunker 1 Agent| AND |Comms Room Key|"
 		}
     },
     "Agent Mission 2-2 Bunker 1": {
@@ -153,7 +153,7 @@
             "Agent Mission 3-1 Silo"
         ],
 		"exit_requires": {
-			"Agent Mission 3-1 Silo": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Silo Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard|"
+			"Agent Mission 3-1 Silo": "{YamlEnabled(Linear_Gameplay)} AND |Silo Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard|"
 		}
     },
     "Agent Mission 3-1 Silo": {
@@ -161,7 +161,7 @@
             "Agent Mission 4-1 Frigate"
         ],
 		"exit_requires": {
-			"Agent Mission 4-1 Frigate": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Frigate Agent| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52|"
+			"Agent Mission 4-1 Frigate": "{YamlEnabled(Linear_Gameplay)} AND |Frigate Agent| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52|"
 		}
     },
     "Agent Mission 4-1 Frigate": {
@@ -169,7 +169,7 @@
             "Agent Mission 5-1 Surface 2"
         ],
 		"exit_requires": {
-			"Agent Mission 5-1 Surface 2": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND ((|Surface 2 Agent| AND |Tracker Bug|) OR (|Surface 2 Secret Agent| AND |Tracker Bug| AND |Bomb Defuser|) OR (|Surface 2 Double Agent| AND |Tracker Bug| AND |Bomb Defuser|))"
+			"Agent Mission 5-1 Surface 2": "{YamlEnabled(Linear_Gameplay)} AND ((|Surface 2 Agent| AND |Tracker Bug|) OR (|Surface 2 Secret Agent| AND |Tracker Bug| AND |Bomb Defuser|) OR (|Surface 2 Double Agent| AND |Tracker Bug| AND |Bomb Defuser|))"
 		}
     },
     "Agent Mission 5-1 Surface 2": {
@@ -177,7 +177,7 @@
             "Agent Mission 5-2 Bunker 2"
         ],
 		"exit_requires": {
-			"Agent Mission 5-2 Bunker 2": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Bunker 2 Agent| AND |Comms Room Key|"
+			"Agent Mission 5-2 Bunker 2": "{YamlEnabled(Linear_Gameplay)} AND |Bunker 2 Agent| AND |Comms Room Key|"
 		}
     },
     "Agent Mission 5-2 Bunker 2": {
@@ -185,7 +185,7 @@
             "Agent Mission 6-1 Statue"
         ],
 		"exit_requires": {
-			"Agent Mission 6-1 Statue": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Statue Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard B|"
+			"Agent Mission 6-1 Statue": "{YamlEnabled(Linear_Gameplay)} AND |Statue Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard B|"
 		}
     },
     "Agent Mission 6-1 Statue": {
@@ -193,7 +193,7 @@
             "Agent Mission 6-2 Archives"
         ],
 		"exit_requires": {
-			"Agent Mission 6-2 Archives": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Archives Agent| AND |Flight Recorder|"
+			"Agent Mission 6-2 Archives": "{YamlEnabled(Linear_Gameplay)} AND |Archives Agent| AND |Flight Recorder|"
 		}
     },
     "Agent Mission 6-2 Archives": {
@@ -201,7 +201,7 @@
             "Agent Mission 6-3 Streets"
         ],
 		"exit_requires": {
-			"Agent Mission 6-3 Streets": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Streets Agent| AND |Interrogation Room Key|"
+			"Agent Mission 6-3 Streets": "{YamlEnabled(Linear_Gameplay)} AND |Streets Agent| AND |Interrogation Room Key|"
 		}
     },
     "Agent Mission 6-3 Streets": {
@@ -209,7 +209,7 @@
             "Agent Mission 6-4 Depot"
         ],
 		"exit_requires": {
-			"Agent Mission 6-4 Depot": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Depot Agent|"
+			"Agent Mission 6-4 Depot": "{YamlEnabled(Linear_Gameplay)} AND |Depot Agent|"
 		}
     },
     "Agent Mission 6-4 Depot": {
@@ -217,7 +217,7 @@
             "Agent Mission 6-5 Train"
         ],
 		"exit_requires": {
-			"Agent Mission 6-5 Train": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Train Agent|"
+			"Agent Mission 6-5 Train": "{YamlEnabled(Linear_Gameplay)} AND |Train Agent|"
 		}
     },
     "Agent Mission 6-5 Train": {
@@ -225,7 +225,7 @@
             "Agent Mission 7-1 Jungle"
         ],
 		"exit_requires": {
-			"Agent Mission 7-1 Jungle": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Jungle Agent| AND |Train Door Key|"
+			"Agent Mission 7-1 Jungle": "{YamlEnabled(Linear_Gameplay)} AND |Jungle Agent| AND |Train Door Key|"
 		}
     },
     "Agent Mission 7-1 Jungle": {
@@ -233,7 +233,7 @@
             "Agent Mission 7-2 Control"
         ],
 		"exit_requires": {
-			"Agent Mission 7-2 Control": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Control Agent|"
+			"Agent Mission 7-2 Control": "{YamlEnabled(Linear_Gameplay)} AND |Control Agent|"
 		}
     },
     "Agent Mission 7-2 Control": {
@@ -241,7 +241,7 @@
             "Agent Mission 7-3 Caverns"
         ],
 		"exit_requires": {
-			"Agent Mission 7-3 Caverns": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Caverns Agent| AND |Remote Mines|"
+			"Agent Mission 7-3 Caverns": "{YamlEnabled(Linear_Gameplay)} AND |Caverns Agent| AND |Remote Mines|"
 		}
     },
     "Agent Mission 7-3 Caverns": {
@@ -249,7 +249,7 @@
             "Agent Mission 7-4 Cradle"
         ],
 		"exit_requires": {
-			"Agent Mission 7-4 Cradle": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Cradle Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
+			"Agent Mission 7-4 Cradle": "{YamlEnabled(Linear_Gameplay)} AND |Cradle Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
 		}
     },
 	"Agent Mission 7-4 Cradle": {
@@ -265,7 +265,7 @@
             "Secret Agent Mission 1-2 Facility"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 1-2 Facility": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Facility Secret Agent|"
+			"Secret Agent Mission 1-2 Facility": "{YamlEnabled(Linear_Gameplay)} AND |Facility Secret Agent|"
 		}
     },
     "Secret Agent Mission 1-2 Facility": {
@@ -273,7 +273,7 @@
             "Secret Agent Mission 1-3 Runway"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 1-3 Runway": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Runway Secret Agent| AND |Facility Keycard B| AND |Door Decoder| AND |Remote Mines|"
+			"Secret Agent Mission 1-3 Runway": "{YamlEnabled(Linear_Gameplay)} AND |Runway Secret Agent| AND |Facility Keycard B| AND |Door Decoder| AND |Remote Mines|"
 		}
     },
     "Secret Agent Mission 1-3 Runway": {
@@ -281,7 +281,7 @@
             "Secret Agent Mission 2-1 Surface 1"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 2-1 Surface 1": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Surface 1 Secret Agent| AND |Airplane Key| AND |Timed Mines|"
+			"Secret Agent Mission 2-1 Surface 1": "{YamlEnabled(Linear_Gameplay)} AND |Surface 1 Secret Agent| AND |Airplane Key| AND |Timed Mines|"
 		}
     },
     "Secret Agent Mission 2-1 Surface 1": {
@@ -289,7 +289,7 @@
             "Secret Agent Mission 2-2 Bunker 1"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 2-2 Bunker 1": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Bunker 1 Secret Agent| AND |Comms Room Key| AND |Surface Safe Key| AND |Building Plans|"
+			"Secret Agent Mission 2-2 Bunker 1": "{YamlEnabled(Linear_Gameplay)} AND |Bunker 1 Secret Agent| AND |Comms Room Key| AND |Surface Safe Key| AND |Building Plans|"
 		}
     },
     "Secret Agent Mission 2-2 Bunker 1": {
@@ -297,7 +297,7 @@
             "Secret Agent Mission 3-1 Silo"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 3-1 Silo": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Silo Secret Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard|"
+			"Secret Agent Mission 3-1 Silo": "{YamlEnabled(Linear_Gameplay)} AND |Silo Secret Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard|"
 		}
     },
     "Secret Agent Mission 3-1 Silo": {
@@ -305,7 +305,7 @@
             "Secret Agent Mission 4-1 Frigate"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 4-1 Frigate": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Frigate Secret Agent| AND |I/O Circuit Board| AND |CPU Circuit Board| AND |RSP Circuit Board| AND |RDP Circuit Board| AND |DAT| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52|"
+			"Secret Agent Mission 4-1 Frigate": "{YamlEnabled(Linear_Gameplay)} AND |Frigate Secret Agent| AND |I/O Circuit Board| AND |CPU Circuit Board| AND |RSP Circuit Board| AND |RDP Circuit Board| AND |DAT| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52|"
 		}
     },
     "Secret Agent Mission 4-1 Frigate": {
@@ -313,7 +313,7 @@
             "Secret Agent Mission 5-1 Surface 2"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 5-1 Surface 2": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Surface 2 Secret Agent| AND |Tracker Bug| AND |Bomb Defuser|"
+			"Secret Agent Mission 5-1 Surface 2": "{YamlEnabled(Linear_Gameplay)} AND |Surface 2 Secret Agent| AND |Tracker Bug| AND |Bomb Defuser|"
 		}
     },
     "Secret Agent Mission 5-1 Surface 2": {
@@ -321,7 +321,7 @@
             "Secret Agent Mission 5-2 Bunker 2"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 5-2 Bunker 2": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Bunker 2 Secret Agent| AND |Special Timed Mine| AND |Comms Room Key|"
+			"Secret Agent Mission 5-2 Bunker 2": "{YamlEnabled(Linear_Gameplay)} AND |Bunker 2 Secret Agent| AND |Special Timed Mine| AND |Comms Room Key|"
 		}
     },
     "Secret Agent Mission 5-2 Bunker 2": {
@@ -329,7 +329,7 @@
             "Secret Agent Mission 6-1 Statue"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 6-1 Statue": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Statue Secret Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard A| AND |Bunker 2 Keycard B| AND |Staff List| AND |Casualty List|"
+			"Secret Agent Mission 6-1 Statue": "{YamlEnabled(Linear_Gameplay)} AND |Statue Secret Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard A| AND |Bunker 2 Keycard B| AND |Staff List| AND |Casualty List|"
 		}
     },
     "Secret Agent Mission 6-1 Statue": {
@@ -337,7 +337,7 @@
             "Secret Agent Mission 6-2 Archives"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 6-2 Archives": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Archives Secret Agent| AND |Flight Recorder|"
+			"Secret Agent Mission 6-2 Archives": "{YamlEnabled(Linear_Gameplay)} AND |Archives Secret Agent| AND |Flight Recorder|"
 		}
     },
     "Secret Agent Mission 6-2 Archives": {
@@ -345,7 +345,7 @@
             "Secret Agent Mission 6-3 Streets"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 6-3 Streets": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Streets Secret Agent| AND |Interrogation Room Key| AND |Archives Safe Key| AND |Flight Recorder|"
+			"Secret Agent Mission 6-3 Streets": "{YamlEnabled(Linear_Gameplay)} AND |Streets Secret Agent| AND |Interrogation Room Key| AND |Archives Safe Key| AND |Flight Recorder|"
 		}
     },
     "Secret Agent Mission 6-3 Streets": {
@@ -353,7 +353,7 @@
             "Secret Agent Mission 6-4 Depot"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 6-4 Depot": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Depot Secret Agent|"
+			"Secret Agent Mission 6-4 Depot": "{YamlEnabled(Linear_Gameplay)} AND |Depot Secret Agent|"
 		}
     },
     "Secret Agent Mission 6-4 Depot": {
@@ -361,7 +361,7 @@
             "Secret Agent Mission 6-5 Train"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 6-5 Train": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Train Secret Agent| AND |Depot Safe Key| AND |Blueprints|"
+			"Secret Agent Mission 6-5 Train": "{YamlEnabled(Linear_Gameplay)} AND |Train Secret Agent| AND |Depot Safe Key| AND |Blueprints|"
 		}
     },
     "Secret Agent Mission 6-5 Train": {
@@ -369,7 +369,7 @@
             "Secret Agent Mission 7-1 Jungle"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 7-1 Jungle": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Jungle Secret Agent| AND |Train Door Key|"
+			"Secret Agent Mission 7-1 Jungle": "{YamlEnabled(Linear_Gameplay)} AND |Jungle Secret Agent| AND |Train Door Key|"
 		}
     },
     "Secret Agent Mission 7-1 Jungle": {
@@ -377,7 +377,7 @@
             "Secret Agent Mission 7-2 Control"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 7-2 Control": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Control Secret Agent|"
+			"Secret Agent Mission 7-2 Control": "{YamlEnabled(Linear_Gameplay)} AND |Control Secret Agent|"
 		}
     },
     "Secret Agent Mission 7-2 Control": {
@@ -385,7 +385,7 @@
             "Secret Agent Mission 7-3 Caverns"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 7-3 Caverns": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Caverns Secret Agent| AND |Remote Mines|"
+			"Secret Agent Mission 7-3 Caverns": "{YamlEnabled(Linear_Gameplay)} AND |Caverns Secret Agent| AND |Remote Mines|"
 		}
     },
     "Secret Agent Mission 7-3 Caverns": {
@@ -393,7 +393,7 @@
             "Secret Agent Mission 7-4 Cradle"
         ],
 		"exit_requires": {
-			"Secret Agent Mission 7-4 Cradle": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Cradle Secret Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
+			"Secret Agent Mission 7-4 Cradle": "{YamlEnabled(Linear_Gameplay)} AND |Cradle Secret Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
 		}
     },
 	"Secret Agent Mission 7-4 Cradle": {
@@ -409,7 +409,7 @@
             "Double Agent Mission 1-2 Facility"
         ],
 		"exit_requires": {
-			"Double Agent Mission 1-2 Facility": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Facility Double Agent| AND |Covert Modem|"
+			"Double Agent Mission 1-2 Facility": "{YamlEnabled(Linear_Gameplay)} AND |Facility Double Agent| AND |Covert Modem|"
 		}
     },
     "Double Agent Mission 1-2 Facility": {
@@ -417,7 +417,7 @@
             "Double Agent Mission 1-3 Runway"
         ],
 		"exit_requires": {
-			"Double Agent Mission 1-3 Runway": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Runway Double Agent| AND |Facility Keycard B| AND |Door Decoder| AND |Remote Mines|"
+			"Double Agent Mission 1-3 Runway": "{YamlEnabled(Linear_Gameplay)} AND |Runway Double Agent| AND |Facility Keycard B| AND |Door Decoder| AND |Remote Mines|"
 		}
     },
     "Double Agent Mission 1-3 Runway": {
@@ -425,7 +425,7 @@
             "Double Agent Mission 2-1 Surface 1"
         ],
 		"exit_requires": {
-			"Double Agent Mission 2-1 Surface 1": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Surface 1 Double Agent| AND |Airplane Key| AND |Timed Mines|"
+			"Double Agent Mission 2-1 Surface 1": "{YamlEnabled(Linear_Gameplay)} AND |Surface 1 Double Agent| AND |Airplane Key| AND |Timed Mines|"
 		}
     },
     "Double Agent Mission 2-1 Surface 1": {
@@ -433,7 +433,7 @@
             "Double Agent Mission 2-2 Bunker 1"
         ],
 		"exit_requires": {
-			"Double Agent Mission 2-2 Bunker 1": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Bunker 1 Double Agent| AND |Comms Room Key| AND |Surface Safe Key| AND |Building Plans|"
+			"Double Agent Mission 2-2 Bunker 1": "{YamlEnabled(Linear_Gameplay)} AND |Bunker 1 Double Agent| AND |Comms Room Key| AND |Surface Safe Key| AND |Building Plans|"
 		}
     },
     "Double Agent Mission 2-2 Bunker 1": {
@@ -441,7 +441,7 @@
             "Double Agent Mission 3-1 Silo"
         ],
 		"exit_requires": {
-			"Double Agent Mission 3-1 Silo": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Silo Double Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard| AND |Computer Room Keycard| AND |Datathief|"
+			"Double Agent Mission 3-1 Silo": "{YamlEnabled(Linear_Gameplay)} AND |Silo Double Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard| AND |Computer Room Keycard| AND |Datathief|"
 		}
     },
     "Double Agent Mission 3-1 Silo": {
@@ -449,7 +449,7 @@
             "Double Agent Mission 4-1 Frigate"
         ],
 		"exit_requires": {
-			"Double Agent Mission 4-1 Frigate": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Frigate Double Agent| AND |I/O Circuit Board| AND |CPU Circuit Board| AND |RSP Circuit Board| AND |RDP Circuit Board| AND |DAT| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52| AND |Plastique|"
+			"Double Agent Mission 4-1 Frigate": "{YamlEnabled(Linear_Gameplay)} AND |Frigate Double Agent| AND |I/O Circuit Board| AND |CPU Circuit Board| AND |RSP Circuit Board| AND |RDP Circuit Board| AND |DAT| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52| AND |Plastique|"
 		}
     },
     "Double Agent Mission 4-1 Frigate": {
@@ -457,7 +457,7 @@
             "Double Agent Mission 5-1 Surface 2"
         ],
 		"exit_requires": {
-			"Double Agent Mission 5-1 Surface 2": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Surface 2 Double Agent| AND |Tracker Bug| AND |Bomb Defuser|"
+			"Double Agent Mission 5-1 Surface 2": "{YamlEnabled(Linear_Gameplay)} AND |Surface 2 Double Agent| AND |Tracker Bug| AND |Bomb Defuser|"
 		}
     },
     "Double Agent Mission 5-1 Surface 2": {
@@ -465,7 +465,7 @@
             "Double Agent Mission 5-2 Bunker 2"
         ],
 		"exit_requires": {
-			"Double Agent Mission 5-2 Bunker 2": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Bunker 2 Double Agent| AND |Special Timed Mine| AND |Comms Room Key|"
+			"Double Agent Mission 5-2 Bunker 2": "{YamlEnabled(Linear_Gameplay)} AND |Bunker 2 Double Agent| AND |Special Timed Mine| AND |Comms Room Key|"
 		}
     },
     "Double Agent Mission 5-2 Bunker 2": {
@@ -473,7 +473,7 @@
             "Double Agent Mission 6-1 Statue"
         ],
 		"exit_requires": {
-			"Double Agent Mission 6-1 Statue": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Statue Double Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard A| AND |Bunker 2 Keycard B| AND |Bunker Safe Key 1| AND |Bunker Safe Key 2| AND |Staff List| AND |Casualty List| AND |Goldeneye Operations Manual|"
+			"Double Agent Mission 6-1 Statue": "{YamlEnabled(Linear_Gameplay)} AND |Statue Double Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard A| AND |Bunker 2 Keycard B| AND |Bunker Safe Key 1| AND |Bunker Safe Key 2| AND |Staff List| AND |Casualty List| AND |Goldeneye Operations Manual|"
 		}
     },
     "Double Agent Mission 6-1 Statue": {
@@ -481,7 +481,7 @@
             "Double Agent Mission 6-2 Archives"
         ],
 		"exit_requires": {
-			"Double Agent Mission 6-2 Archives": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Archives Double Agent| AND |Flight Recorder|"
+			"Double Agent Mission 6-2 Archives": "{YamlEnabled(Linear_Gameplay)} AND |Archives Double Agent| AND |Flight Recorder|"
 		}
     },
     "Double Agent Mission 6-2 Archives": {
@@ -489,7 +489,7 @@
             "Double Agent Mission 6-3 Streets"
         ],
 		"exit_requires": {
-			"Double Agent Mission 6-3 Streets": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Streets Double Agent| AND |Interrogation Room Key| AND |Archives Safe Key| AND |Flight Recorder|"
+			"Double Agent Mission 6-3 Streets": "{YamlEnabled(Linear_Gameplay)} AND |Streets Double Agent| AND |Interrogation Room Key| AND |Archives Safe Key| AND |Flight Recorder|"
 		}
     },
     "Double Agent Mission 6-3 Streets": {
@@ -497,7 +497,7 @@
             "Double Agent Mission 6-4 Depot"
         ],
 		"exit_requires": {
-			"Double Agent Mission 6-4 Depot": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Depot Double Agent|"
+			"Double Agent Mission 6-4 Depot": "{YamlEnabled(Linear_Gameplay)} AND |Depot Double Agent|"
 		}
     },
     "Double Agent Mission 6-4 Depot": {
@@ -505,7 +505,7 @@
             "Double Agent Mission 6-5 Train"
         ],
 		"exit_requires": {
-			"Double Agent Mission 6-5 Train": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Train Double Agent| AND |Depot Safe Key| AND |Blueprints|"
+			"Double Agent Mission 6-5 Train": "{YamlEnabled(Linear_Gameplay)} AND |Train Double Agent| AND |Depot Safe Key| AND |Blueprints|"
 		}
     },
     "Double Agent Mission 6-5 Train": {
@@ -513,7 +513,7 @@
             "Double Agent Mission 7-1 Jungle"
         ],
 		"exit_requires": {
-			"Double Agent Mission 7-1 Jungle": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Jungle Double Agent| AND |Train Door Key|"
+			"Double Agent Mission 7-1 Jungle": "{YamlEnabled(Linear_Gameplay)} AND |Jungle Double Agent| AND |Train Door Key|"
 		}
     },
     "Double Agent Mission 7-1 Jungle": {
@@ -521,7 +521,7 @@
             "Double Agent Mission 7-2 Control"
         ],
 		"exit_requires": {
-			"Double Agent Mission 7-2 Control": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Control Double Agent|"
+			"Double Agent Mission 7-2 Control": "{YamlEnabled(Linear_Gameplay)} AND |Control Double Agent|"
 		}
     },
     "Double Agent Mission 7-2 Control": {
@@ -529,7 +529,7 @@
             "Double Agent Mission 7-3 Caverns"
         ],
 		"exit_requires": {
-			"Double Agent Mission 7-3 Caverns": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Caverns Double Agent| AND |Remote Mines|"
+			"Double Agent Mission 7-3 Caverns": "{YamlEnabled(Linear_Gameplay)} AND |Caverns Double Agent| AND |Remote Mines|"
 		}
     },
     "Double Agent Mission 7-3 Caverns": {
@@ -537,7 +537,7 @@
             "Double Agent Mission 7-4 Cradle"
         ],
 		"exit_requires": {
-			"Double Agent Mission 7-4 Cradle": "({YamlEnabled(Linear)} AND {YamlDisabled(Open)}) AND |Cradle Double Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
+			"Double Agent Mission 7-4 Cradle": "{YamlEnabled(Linear_Gameplay)} AND |Cradle Double Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
 		}
     },
 	"Double Agent Mission 7-4 Cradle": {

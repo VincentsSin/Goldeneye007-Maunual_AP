@@ -13,7 +13,7 @@
                 "Dam Agent"
             ],
 			"yaml_option": [
-				"Linear"
+				"Linear_Gameplay"
 			]
         },
         {
@@ -21,7 +21,7 @@
                 "Dam Secret Agent"
             ],
 			"yaml_option": [
-				"Linear"
+				"Linear_Gameplay"
 			]
         },
         {
@@ -29,7 +29,7 @@
                 "Dam Double Agent"
             ],
 			"yaml_option": [
-				"Linear"
+				"Linear_Gameplay"
 			]
         },
 		{
@@ -37,8 +37,7 @@
 				"Open Random"
 			],
 			"random": 1,
-			"yaml_option": ["Open"],
-			"yaml_option": ["!Linear"]
+			"yaml_option": ["!Linear_Gameplay"]
 		}
     ]
 }
