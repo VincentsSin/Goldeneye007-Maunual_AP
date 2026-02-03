@@ -140,9 +140,18 @@
         "useful": true
     },
     {
+        "name": "Golden Gun",
+        "category": [
+            "Weapon",
+            "Egyptian"
+        ],
+        "progression": true
+    },
+    {
         "name": "Covert Modem",
         "category": [
-            "Gadget"
+            "Gadget",
+            "Double Agent Mission"
         ],
         "progression": true
     },
@@ -151,7 +160,8 @@
         "category": [
             "Gadget"
         ],
-        "progression": true
+        "progression": true,
+        "requires": "{YamlEnabled(Secret_Agent_Missions)} OR {YamlEnabled(Double_Agent_Missions)}"
     },
     {
         "name": "Key Analyzer Case",
@@ -165,7 +175,8 @@
         "category": [
             "Gadget"
         ],
-        "progression": true
+        "progression": true,
+        "requires": "{YamlEnabled(Double_Agent_Missions)}"
     },
     {
         "name": "Camera",
@@ -179,7 +190,8 @@
         "category": [
             "Gadget"
         ],
-        "progression": true
+        "progression": true,
+        "requires": "{YamlEnabled(Double_Agent_Missions)}"
     },
     {
         "name": "Tracker Bug",
@@ -193,7 +205,8 @@
         "category": [
             "Gadget"
         ],
-        "progression": true
+        "progression": true,
+        "requires": "{YamlEnabled(Secret_Agent_Missions)} OR {YamlEnabled(Double_Agent_Missions)}"
     },
     {
         "name": "Special Timed Mine",
@@ -465,6 +478,30 @@
         "name": "Code Card 3",
         "category": [
             "Item"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Guidance Data",
+        "category": [
+            "Item",
+            "Aztec"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Security Smart Card",
+        "category": [
+            "Item",
+            "Aztec"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Launch Protocol Data",
+        "category": [
+            "Item",
+            "Aztec"
         ],
         "progression": true
     },
@@ -850,6 +887,48 @@
         "name": "Cradle Double Agent",
         "category": [
             "Double Agent Mission", "Open Random"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Aztec Agent",
+        "category": [
+            "Agent Mission", "Open Random", "Aztec"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Aztec Secret Agent",
+        "category": [
+            "Secret Agent Mission", "Open Random", "Aztec"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Aztec Double Agent",
+        "category": [
+            "Double Agent Mission", "Open Random", "Aztec"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Egyptian Agent",
+        "category": [
+            "Agent Mission", "Open Random", "Egyptian"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Egyptian Secret Agent",
+        "category": [
+            "Secret Agent Mission", "Open Random", "Egyptian"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Egyptian Double Agent",
+        "category": [
+            "Double Agent Mission", "Open Random", "Egyptian"
         ],
         "progression": true
     },

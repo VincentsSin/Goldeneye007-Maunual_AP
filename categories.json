@@ -19,49 +19,55 @@
     },
     "Agent Key": {
         "yaml_option": [
-            "Agent_Missions"
+            "Agent_Missions",
+            "Agent_Keys"
         ]
     },
     "Secret Agent Key": {
         "yaml_option": [
-            "Secret_Agent_Missions"
+            "Secret_Agent_Missions",
+            "Secret_Agent_Keys"
         ]
     },
     "Double Agent Key": {
         "yaml_option": [
-            "Double_Agent_Missions"
+            "Double_Agent_Missions",
+            "Double_Agent_Keys"
         ]
     },
     "Agent Intel": {
         "yaml_option": [
-            "Agent_Missions"
+            "Agent_Missions",
+            "Agent_Intel"
         ]
     },
     "Secret Agent Intel": {
         "yaml_option": [
-            "Secret_Agent_Missions"
+            "Secret_Agent_Missions",
+            "Secret_Agent_Intel"
         ]
     },
     "Double Agent Intel": {
         "yaml_option": [
-            "Double_Agent_Missions"
+            "Double_Agent_Missions",
+            "Double_Agent_Intel"
         ]
     },
     "Agent Cheat Unlock": {
         "yaml_option": [
-            "Add_Cheats",
+            "Agent_Cheats",
 			"Agent_Missions"
         ]
     },
     "Secret Agent Cheat Unlock": {
         "yaml_option": [
-            "Add_Cheats",
+            "Secret_Agent_Cheats",
 			"Secret_Agent_Missions"
         ]
     },
     "Double Agent Cheat Unlock": {
         "yaml_option": [
-            "Add_Cheats",
+            "Double_Agent_Cheats",
 			"Double_Agent_Missions"
         ]
     },
@@ -92,6 +98,20 @@
 	"Open World": {
 		"yaml_option": [
 			"!Linear_Gameplay"
+		],
+		"hidden": true
+	},
+    "Aztec": {
+		"yaml_option": [
+			"Include_Aztec",
+            "!Linear_Gameplay"
+		],
+		"hidden": true
+	},
+	"Egyptian": {
+		"yaml_option": [
+			"Include_Egyptian",
+            "!Linear_Gameplay"
 		],
 		"hidden": true
 	}

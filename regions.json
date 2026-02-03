@@ -20,6 +20,8 @@
 			"Agent Mission 7-2 Control",
 			"Agent Mission 7-3 Caverns",
 			"Agent Mission 7-4 Cradle",
+			"Agent Mission 8-1 Teotihuaca'n",
+			"Agent Mission 9-1 el-Saghira",
             "Secret Agent Mission 1-1 Dam",
 			"Secret Agent Mission 1-2 Facility",
 			"Secret Agent Mission 1-3 Runway",
@@ -38,6 +40,8 @@
 			"Secret Agent Mission 7-2 Control",
 			"Secret Agent Mission 7-3 Caverns",
 			"Secret Agent Mission 7-4 Cradle",
+			"Secret Agent Mission 8-1 Teotihuaca'n",
+			"Secret Agent Mission 9-1 el-Saghira",
             "Double Agent Mission 1-1 Dam",
 			"Double Agent Mission 1-2 Facility",
 			"Double Agent Mission 1-3 Runway",
@@ -56,6 +60,8 @@
 			"Double Agent Mission 7-2 Control",
 			"Double Agent Mission 7-3 Caverns",
 			"Double Agent Mission 7-4 Cradle",
+			"Double Agent Mission 8-1 Teotihuaca'n",
+			"Double Agent Mission 9-1 el-Saghira",
 			"Finale"
         ],
 		"exit_requires": {
@@ -77,6 +83,8 @@
 			"Agent Mission 7-2 Control": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Control Agent|)",
 			"Agent Mission 7-3 Caverns": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Caverns Agent|)",
 			"Agent Mission 7-4 Cradle": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND |Cradle Agent|)",
+			"Agent Mission 8-1 Teotihuaca'n": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Include_Aztec)} AND |Aztec Agent|)",
+			"Agent Mission 9-1 el-Saghira": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Include_Egyptian)} AND |Egyptian Agent|)",
 			"Secret Agent Mission 1-1 Dam": "({YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Dam Secret Agent|) OR ({YamlEnabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Dam Secret Agent|))",
 			"Secret Agent Mission 1-2 Facility": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Facility Secret Agent|)",
 			"Secret Agent Mission 1-3 Runway": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Runway Secret Agent|)",
@@ -95,6 +103,8 @@
 			"Secret Agent Mission 7-2 Control": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Control Secret Agent|)",
 			"Secret Agent Mission 7-3 Caverns": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Caverns Secret Agent|)",
 			"Secret Agent Mission 7-4 Cradle": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND |Cradle Secret Agent|)",
+			"Secret Agent Mission 8-1 Teotihuaca'n": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Include_Aztec)} AND |Egyptian Secret Agent|)",
+			"Secret Agent Mission 9-1 el-Saghira": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Include_Egyptian)} AND |Egyptian Secret Agent|)",
 			"Double Agent Mission 1-1 Dam": "({YamlDisabled(Linear_Gameplay)} AND |Dam Double Agent|) OR ({YamlEnabled(Linear_Gameplay)} AND |Dam Double Agent|)",
 			"Double Agent Mission 1-2 Facility": "{YamlDisabled(Linear_Gameplay)} AND |Facility Double Agent|",
 			"Double Agent Mission 1-3 Runway": "{YamlDisabled(Linear_Gameplay)} AND |Runway Double Agent|",
@@ -113,6 +123,8 @@
 			"Double Agent Mission 7-2 Control": "{YamlDisabled(Linear_Gameplay)} AND |Control Double Agent|",
 			"Double Agent Mission 7-3 Caverns": "{YamlDisabled(Linear_Gameplay)} AND |Caverns Double Agent|",
 			"Double Agent Mission 7-4 Cradle": "{YamlDisabled(Linear_Gameplay)} AND |Cradle Double Agent|",
+			"Double Agent Mission 8-1 Teotihuaca'n": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Include_Aztec)} AND |Egyptian Double Agent|)",
+			"Double Agent Mission 9-1 el-Saghira": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Include_Egyptian)} AND |Egyptian Double Agent|)",
 			"Finale": "{YamlDisabled(Linear_Gameplay)} AND ({YamlEnabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Secret Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Double Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlDisabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Secret Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlDisabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Double Agent Cleared|) OR ({YamlDisabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Secret Agent Cleared| AND |Double Agent Cleared|) OR ({YamlEnabled(Agent_Missions)} AND {YamlEnabled(Secret_Agent_Missions)} AND {YamlEnabled(Double_Agent_Missions)} AND |Agent Cleared| AND |Secret Agent Cleared| AND |Double Agent Cleared|)"
 		}
     },
@@ -548,6 +560,18 @@
 			"Finale": "{YamlEnabled(Double_Agent_Missions)} AND |Dam Double Agent| AND |Facility Double Agent| AND |Covert Modem| AND |Runway Double Agent| AND |Facility Keycard B| AND |Door Decoder| AND |Remote Mines| AND |Surface 1 Double Agent| AND |Airplane Key| AND |Timed Mines| AND |Bunker 1 Double Agent| AND |Comms Room Key| AND |Surface Safe Key| AND |Building Plans| AND |Silo Double Agent| AND |Key Analyzer Case| AND |Goldeneye Key| AND |Camera| AND |Security Room Keycard| AND |Computer Room Keycard| AND |Datathief| AND |Frigate Double Agent| AND |I/O Circuit Board| AND |CPU Circuit Board| AND |RSP Circuit Board| AND |RDP Circuit Board| AND |DAT| AND |Keycard 4-H4| AND |Keycard 4-C3| AND |Keycard 4-52| AND |Plastique| AND |Surface 2 Double Agent| AND |Tracker Bug| AND |Bomb Defuser| AND |Bunker 2 Double Agent| AND |Special Timed Mine| AND |Comms Room Key| AND |Statue Double Agent| AND |Watch Magnet| AND |Bunker Cell Key 1| AND |Bunker Cell Key 2| AND |CCTV Tape| AND |Bunker 2 Keycard A| AND |Bunker 2 Keycard B| AND |Bunker Safe Key 1| AND |Bunker Safe Key 2| AND |Staff List| AND |Casualty List| AND |Goldeneye Operations Manual| AND |Archives Double Agent| AND |Flight Recorder| AND |Streets Double Agent| AND |Interrogation Room Key| AND |Archives Safe Key| AND |Flight Recorder| AND |Depot Double Agent| AND |Train Double Agent| AND |Depot Safe Key| AND |Blueprints| AND |Jungle Double Agent| AND |Train Door Key| AND |Control Double Agent| AND |Caverns Double Agent| AND |Remote Mines| AND |Cradle Double Agent| AND |Code Card 1| AND |Code Card 2| AND |Code Card 3|"
 		}
     },
+	"Agent Mission 8-1 Teotihuaca'n": {
+	},
+	"Secret Agent Mission 8-1 Teotihuaca'n": {
+	},
+	"Double Agent Mission 8-1 Teotihuaca'n": {
+	},
+	"Agent Mission 9-1 el-Saghira": {
+	},
+	"Secret Agent Mission 9-1 el-Saghira": {
+	},
+	"Double Agent Mission 9-1 el-Saghira": {
+	},
     "Finale": {
     }
 }

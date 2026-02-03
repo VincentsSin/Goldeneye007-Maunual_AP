@@ -2985,6 +2985,292 @@
         ],
         "region": "Agent Mission 7-4 Cradle"
     },
+    {
+        "name": "Aztec - Agent (Clear)",
+        "category": [
+            "Agent Mission",
+            "Aztec"
+        ],
+        "region": "Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card| AND |Launch Protocol Data|"
+    },
+    {
+        "name": "Aztec - Secret Agent (Clear)",
+        "category": [
+            "Secret Agent Mission",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card| AND |Launch Protocol Data|"
+    },
+    {
+        "name": "Aztec - Double Agent (Clear)",
+        "category": [
+            "Double Agent Mission",
+            "Aztec"
+        ],
+        "region": "Double Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card| AND |Launch Protocol Data|"
+    },
+    {
+        "name": "Aztec - Guidance Data (Agent)",
+        "category": [
+            "Agent Key",
+            "Aztec"
+        ],
+        "region": "Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Guidance Data (Secret Agent)",
+        "category": [
+            "Secret Agent Key",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Guidance Data (Double Agent)",
+        "category": [
+            "Double Agent Key",
+            "Aztec"
+        ],
+        "region": "Double Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Security Smart Card (Agent)",
+        "category": [
+            "Agent Key",
+            "Aztec"
+        ],
+        "region": "Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Security Smart Card (Secret Agent)",
+        "category": [
+            "Secret Agent Key",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Security Smart Card (Double Agent)",
+        "category": [
+            "Double Agent Key",
+            "Aztec"
+        ],
+        "region": "Double Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Launch Protocol Data (Agent)",
+        "category": [
+            "Agent Key",
+            "Aztec"
+        ],
+        "region": "Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Launch Protocol Data (Secret Agent)",
+        "category": [
+            "Secret Agent Key",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Aztec - Launch Protocol Data (Double Agent)",
+        "category": [
+            "Double Agent Key",
+            "Aztec"
+        ],
+        "region": "Double Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Reprogram Shuttle Guidance (Agent)",
+        "category": [
+            "Agent Objective",
+			"Aztec Objectives",
+            "Aztec"
+        ],
+        "region": "Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card|"
+    },
+    {
+        "name": "Launch Shuttle (Agent)",
+        "category": [
+            "Agent Objective",
+			"Aztec Objectives",
+            "Aztec"
+        ],
+        "region": "Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card| AND |Launch Protocol Data|"
+    },
+    {
+        "name": "Reprogram Shuttle Guidance (Secret Agent)",
+        "category": [
+            "Secret Agent Objective",
+			"Aztec Objectives",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card|"
+    },
+    {
+        "name": "Launch Shuttle (Secret Agent)",
+        "category": [
+            "Secret Agent Objective",
+			"Aztec Objectives",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card| AND |Launch Protocol Data|"
+    },
+    {
+        "name": "Reprogram Shuttle Guidance (Double Agent)",
+        "category": [
+            "Double Agent Objective",
+			"Aztec Objectives",
+            "Aztec"
+        ],
+        "region": "Double Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card|"
+    },
+    {
+        "name": "Launch Shuttle (Double Agent)",
+        "category": [
+            "Double Agent Objective",
+			"Aztec Objectives",
+            "Aztec"
+        ],
+        "region": "Double Agent Mission 8-1 Teotihuaca'n",
+        "requires": "|Guidance Data| AND |Security Smart Card| AND |Launch Protocol Data|"
+    },
+    {
+        "name": "Aztec - 2x Laser",
+        "category": [
+            "Secret Agent Cheat Unlock",
+            "Aztec"
+        ],
+        "region": "Secret Agent Mission 8-1 Teotihuaca'n"
+    },
+    {
+        "name": "Egyptian - Agent (Clear)",
+        "category": [
+            "Agent Mission",
+            "Egyptian"
+        ],
+        "region": "Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Egyptian - Secret Agent (Clear)",
+        "category": [
+            "Secret Agent Mission",
+            "Egyptian"
+        ],
+        "region": "Secret Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Egyptian - Double Agent (Clear)",
+        "category": [
+            "Double Agent Mission",
+            "Egyptian"
+        ],
+        "region": "Double Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Egyptian - Golden Gun (Agent)",
+        "category": [
+            "Agent Key",
+            "Egyptian"
+        ],
+        "region": "Agent Mission 9-1 el-Saghira"
+    },
+    {
+        "name": "Egyptian - Golden Gun (Secret Agent)",
+        "category": [
+            "Secret Agent Key",
+            "Egyptian"
+        ],
+        "region": "Secret Agent Mission 9-1 el-Saghira"
+    },
+    {
+        "name": "Egyptian - Golden Gun (Double Agent)",
+        "category": [
+            "Double Agent Key",
+            "Egyptian"
+        ],
+        "region": "Double Agent Mission 9-1 el-Saghira"
+    },
+    {
+        "name": "Recover the Golden Gun (Agent)",
+        "category": [
+            "Agent Objective",
+			"Egyptian Objectives",
+            "Egyptian"
+        ],
+        "region": "Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Defeat Baron Samedi? (Agent)",
+        "category": [
+            "Agent Objective",
+			"Egyptian Objectives",
+            "Egyptian"
+        ],
+        "region": "Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Recover the Golden Gun (Secret Agent)",
+        "category": [
+            "Secret Agent Objective",
+			"Egyptian Objectives",
+            "Egyptian"
+        ],
+        "region": "Secret Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Defeat Baron Samedi? (Secret Agent)",
+        "category": [
+            "Secret Agent Objective",
+			"Egyptian Objectives",
+            "Egyptian"
+        ],
+        "region": "Secret Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Recover the Golden Gun (Double Agent)",
+        "category": [
+            "Double Agent Objective",
+			"Egyptian Objectives",
+            "Egyptian"
+        ],
+        "region": "Double Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Defeat Baron Samedi? (Double Agent)",
+        "category": [
+            "Double Agent Objective",
+			"Egyptian Objectives",
+            "Egyptian"
+        ],
+        "region": "Double Agent Mission 9-1 el-Saghira",
+        "requires": "|Golden Gun|"
+    },
+    {
+        "name": "Egyptian - All Guns",
+        "category": [
+            "Double Agent Cheat Unlock",
+            "Egyptian"
+        ],
+        "region": "Double Agent Mission 9-1 el-Saghira"
+    },
 	{
         "name": "All Agent Missions Cleared",
 		"place_item": ["Agent Cleared"],
